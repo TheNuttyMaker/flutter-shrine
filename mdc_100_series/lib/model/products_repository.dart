@@ -36,7 +36,7 @@ class ProductsRepository {
         id: 2,
         isFeatured: false,
         name: 'Whitney belt',
-        price: 35,
+        price: 3,
       ),
       Product(
         category: Category.accessories,
